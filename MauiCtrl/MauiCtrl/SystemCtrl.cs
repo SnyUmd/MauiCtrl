@@ -46,12 +46,6 @@
 
             return DeviceInfo.Current.Idiom;
 
-            
-            
-            
-            
-            
-            
         }
     }
 }

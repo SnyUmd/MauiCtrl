@@ -1,6 +1,6 @@
 ﻿namespace MauiCtrl
 {
-    public class _class0
+    public class _class
     {
     }
 }

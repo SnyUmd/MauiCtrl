@@ -11,7 +11,7 @@ namespace MauiCtrl
         {
             try
             {
-                navigable_element.Navigation.PushAsync(pg, bl_animation);
+                navigable_element.Navigation.PushAsync(pg, bl_animation);//戻る場合は　await Navigation.PopModalAsync();
                 return true;
             }
             catch

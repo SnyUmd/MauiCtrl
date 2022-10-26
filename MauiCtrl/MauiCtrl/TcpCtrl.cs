@@ -36,8 +36,8 @@ namespace MauiCtrl
 	//**********************************************************************************
         public string Recieve_TCP(NetworkStream ns)
         {
-            ns.ReadTimeout = 10000;
-            ns.WriteTimeout = 10000;
+            ns.ReadTimeout = 5000;
+            ns.WriteTimeout = 5000;
             Encoding enc = Encoding.UTF8;
             string rcv = "";
 
