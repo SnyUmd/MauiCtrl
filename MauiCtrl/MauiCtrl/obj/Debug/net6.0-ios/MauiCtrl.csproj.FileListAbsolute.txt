@@ -17,3 +17,4 @@ C:\Users\barnet\Documents\_bnt\_sn\!git\MauiCtrl\MauiCtrl\MauiCtrl\obj\Debug\net
 C:\Users\barnet\Documents\_bnt\_sn\!git\MauiCtrl\MauiCtrl\MauiCtrl\obj\Debug\net6.0-ios\refint\MauiCtrl.dll
 C:\Users\barnet\Documents\_bnt\_sn\!git\MauiCtrl\MauiCtrl\MauiCtrl\obj\Debug\net6.0-ios\MauiCtrl.pdb
 C:\Users\barnet\Documents\_bnt\_sn\!git\MauiCtrl\MauiCtrl\MauiCtrl\obj\Debug\net6.0-ios\ref\MauiCtrl.dll
+C:\Users\barnet\Documents\_bnt\_sn\!git\MauiCtrl\MauiCtrl\MauiCtrl\obj\Debug\net6.0-ios\build-signature\signature
