@@ -1,0 +1,12 @@
+C:\Users\barnet\Documents\_bnt\_sn\!git\MauiCtrl\MauiCtrl\MauiCtrl\bin\Release\net6.0\MauiCtrl.deps.json
+C:\Users\barnet\Documents\_bnt\_sn\!git\MauiCtrl\MauiCtrl\MauiCtrl\bin\Release\net6.0\MauiCtrl.dll
+C:\Users\barnet\Documents\_bnt\_sn\!git\MauiCtrl\MauiCtrl\MauiCtrl\bin\Release\net6.0\MauiCtrl.pdb
+C:\Users\barnet\Documents\_bnt\_sn\!git\MauiCtrl\MauiCtrl\MauiCtrl\obj\Release\net6.0\MauiCtrl.csproj.AssemblyReference.cache
+C:\Users\barnet\Documents\_bnt\_sn\!git\MauiCtrl\MauiCtrl\MauiCtrl\obj\Release\net6.0\MauiCtrl.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\barnet\Documents\_bnt\_sn\!git\MauiCtrl\MauiCtrl\MauiCtrl\obj\Release\net6.0\MauiCtrl.AssemblyInfoInputs.cache
+C:\Users\barnet\Documents\_bnt\_sn\!git\MauiCtrl\MauiCtrl\MauiCtrl\obj\Release\net6.0\MauiCtrl.AssemblyInfo.cs
+C:\Users\barnet\Documents\_bnt\_sn\!git\MauiCtrl\MauiCtrl\MauiCtrl\obj\Release\net6.0\MauiCtrl.csproj.CoreCompileInputs.cache
+C:\Users\barnet\Documents\_bnt\_sn\!git\MauiCtrl\MauiCtrl\MauiCtrl\obj\Release\net6.0\MauiCtrl.dll
+C:\Users\barnet\Documents\_bnt\_sn\!git\MauiCtrl\MauiCtrl\MauiCtrl\obj\Release\net6.0\refint\MauiCtrl.dll
+C:\Users\barnet\Documents\_bnt\_sn\!git\MauiCtrl\MauiCtrl\MauiCtrl\obj\Release\net6.0\MauiCtrl.pdb
+C:\Users\barnet\Documents\_bnt\_sn\!git\MauiCtrl\MauiCtrl\MauiCtrl\obj\Release\net6.0\ref\MauiCtrl.dll

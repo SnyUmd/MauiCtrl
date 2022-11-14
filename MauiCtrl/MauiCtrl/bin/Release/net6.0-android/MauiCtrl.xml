@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>MauiCtrl</name>
+    </assembly>
+    <members>
+        <member name="M:MauiCtrl.TextCtrl.extractNum_int(System.String)">
+            <summary>
+            テキストから数字を抽出
+            </summary>
+            <param name="val"></param>
+            <returns></returns>
+            
+        </member>
+    </members>
+</doc>
