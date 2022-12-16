@@ -20,7 +20,7 @@ namespace MauiCtrl
 
         public string extractNum_string(string val)
         {
-            return Regex.Replace(val, @"[^0-9]", "");
+            return Regex.Replace(val, @"[^!-~]", "");
         }
     }
 }
